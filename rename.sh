@@ -1,3 +1,5 @@
+#John
+
 for  filename in chem/*.pdb
 do
 basicfilename=$(basename $fileame .pdb)
